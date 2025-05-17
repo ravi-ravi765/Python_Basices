@@ -5,11 +5,14 @@ def say_hello(input):
 		return f'Hello my friend {input}'
 	else:
 	    return f'Hey Hii'
+
+	
 	    	
 if __name__ == "__main__":
 	user = "Brock"
 	
 	reply = say_hello(user)
 	print(reply)
+	print("="*25)
 	
 	
