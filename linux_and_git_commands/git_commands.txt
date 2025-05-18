@@ -1,4 +1,3 @@
-
 # To push the files 
 git remote set-url origin https://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@github.com/ravi-ravi765/Python_Basices
 
@@ -10,5 +9,3 @@ git add "file-name"
 
 # To commit the changes of file
 git commit -m "messages you want to pass"
-
-
