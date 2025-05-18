@@ -1,0 +1,14 @@
+
+# To push the files 
+git remote set-url origin https://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@github.com/ravi-ravi765/Python_Basices
+
+# check the corrent status of git
+git status
+
+# To add files into the git 
+git add "file-name"
+
+# To commit the changes of file
+git commit -m "messages you want to pass"
+
+
