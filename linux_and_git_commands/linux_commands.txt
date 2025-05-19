@@ -1,0 +1,67 @@
+1. what is echo command in linux ?
+using echo you can print the text in terminal.
+
+2. How to check the hostname or server name ?
+using "hostname" command
+
+3. How do you check the current user ?
+using "whoami" command
+
+4. How do you check the current path/directory in terminal?
+using "pwd" command
+
+5.what is different between relative path and absolute path?
+relative path : it will start from current working directory
+absolute path : it will give full path of file or directory
+
+6. which command used to create the file in linux?
+using "touch" command we can create the file
+
+7. how will you edit existing file ?
+using "gedit" command
+
+8. how do you check top 5 line in file
+using "head 5 " command
+
+9. how can you read file without using cat command?
+using " less or more " command 
+
+10. how do yo check file permissions?
+using "ls -l" command
+
+11. how do you check the current ip address?
+using "ip addr" command
+
+12. how do you list hidden files?
+using  "ls -la" command
+
+13. how to see all the recently used commands?
+using "history" command
+
+14. what is root?
+root is admin or super user
+
+15. what is inode and how to find it for a file?
+inode is nothing but index node. it serves a unique identifier for a specific piece of metadata on a filesystems
+
+16. command for counting words and lines ?
+using " wc -l filename" command
+
+17. what is use of pipe command or how can you combine two commands?
+pipe command is used for to comine the two commands and give the output
+
+18. what is use of shred command?
+shred command is used to delete the file permanently
+shred -u filename
+shred --remove filemane
+
+19. how to check   system   architecture info?
+using lscpu
+
+20. how do you combine content of two files?
+using "cat file1 file2 > file3"
+
+30. how can you find type of file?
+
+
+
