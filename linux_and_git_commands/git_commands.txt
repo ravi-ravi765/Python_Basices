@@ -1,5 +1,5 @@
 # To push the files 
-git remote set-url origin https://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@github.com/ravi-ravi765/Python_Basices
+git remote set-url origin https://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@github.com/ravi-ravi765/Python_Basices
 
 # check the corrent status of git
 git status
