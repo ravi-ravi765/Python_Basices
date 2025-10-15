@@ -1,0 +1,9 @@
+setup.py
+first_data_pipeline/__init__.py
+first_data_pipeline/reader.py
+first_data_pipeline/transformer.py
+first_data_pipeline/write.py
+first_data_pipeline.egg-info/PKG-INFO
+first_data_pipeline.egg-info/SOURCES.txt
+first_data_pipeline.egg-info/dependency_links.txt
+first_data_pipeline.egg-info/top_level.txt
